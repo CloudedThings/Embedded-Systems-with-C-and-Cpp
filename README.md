@@ -25,7 +25,7 @@
         <li><a href="#double-linkedlist">Double LinkedList</a></li>
         <li><a href="#hooks">Hooks</a></li>
         <li><a href="#multithreading-async">Multithreading - Async</a></li>
-        <li><a href="#final-assigment">Final assigment</a></li>
+        <li><a href="#final-assignment">Final assignment</a></li>
       </ul>
       </li>
     <li><a href="#license">License</a></li>
@@ -67,12 +67,12 @@ Topics:
 
 ## List of categories
 
-* [Pointers]()
-* [LinkedList - Malloc - Lambda]()
-* [Double LinkedList]()
-* [Hooks]()
-* [Multithreading - Ascync]()
-* [Final assigment]()
+* [Pointers](https://github.com/CloudedThings/Embedded-Systems-with-C-and-Cpp/tree/master/01.%20Pointers)
+* [LinkedList - Malloc - Lambda](https://github.com/CloudedThings/Embedded-Systems-with-C-and-Cpp/tree/master/02.%20LinkedList%20-%20Malloc%20-%20Lambda)
+* [Double LinkedList](https://github.com/CloudedThings/Embedded-Systems-with-C-and-Cpp/tree/master/03.%20Double%20LinkedList)
+* [Hooks](https://github.com/CloudedThings/Embedded-Systems-with-C-and-Cpp/tree/master/04.%20Hooks%20(keylogger))
+* [Multithreading - Ascync](https://github.com/CloudedThings/Embedded-Systems-with-C-and-Cpp/tree/master/05.%20Multithreading%20-%20Async)
+* [Final assignment]()
 
 
 ## License
@@ -83,7 +83,6 @@ Distributed under the MIT License.
 
 Leszek Ucinski [![LinkedIn][linkedin-shield]][linkedin-url]
 
-https://github.com/CloudedThings/100-Days-in-Cloud)
 
 
 
