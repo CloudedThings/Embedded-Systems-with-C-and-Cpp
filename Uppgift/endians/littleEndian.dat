@@ -1,0 +1,48 @@
+Input  0000 0000 0000 0001 | Value: 1 | Big Endian HEX : 1
+Outpu  0000 0001 0000 0000 | Value: 256 | Little Endian Hex : 100
+
+Input  0000 0000 0110 1111 | Value: 111 | Big Endian HEX : 6f
+Outpu  0110 1111 0000 0000 | Value: 28416 | Little Endian Hex : 6f00
+
+Input  0000 1000 1010 1110 | Value: 2222 | Big Endian HEX : 8ae
+Outpu  1010 1110 0000 1000 | Value: 44552 | Little Endian Hex : ae08
+
+Input  0011 0001 0000 0101 | Value: 12549 | Big Endian HEX : 3105
+Outpu  0000 0101 0011 0001 | Value: 1329 | Little Endian Hex : 531
+
+Input  0001 1001 0111 1000 | Value: 6520 | Big Endian HEX : 1978
+Outpu  0111 1000 0001 1001 | Value: 30745 | Little Endian Hex : 7819
+
+Input  0000 0000 1101 1111 | Value: 223 | Big Endian HEX : df
+Outpu  1101 1111 0000 0000 | Value: 57088 | Little Endian Hex : df00
+
+Input  0000 0000 1111 0101 | Value: 245 | Big Endian HEX : f5
+Outpu  1111 0101 0000 0000 | Value: 62720 | Little Endian Hex : f500
+
+Input  0011 1101 0001 1010 | Value: 15642 | Big Endian HEX : 3d1a
+Outpu  0001 1010 0011 1101 | Value: 6717 | Little Endian Hex : 1a3d
+
+Input  0001 0101 0100 1111 | Value: 5455 | Big Endian HEX : 154f
+Outpu  0100 1111 0001 0101 | Value: 20245 | Little Endian Hex : 4f15
+
+Input  1111 1111 0001 0100 | Value: 65300 | Big Endian HEX : ff14
+Outpu  0001 0100 1111 1111 | Value: 5375 | Little Endian Hex : 14ff
+
+Input  0000 0000 1111 1111 | Value: 255 | Big Endian HEX : ff
+Outpu  1111 1111 0000 0000 | Value: 65280 | Little Endian Hex : ff00
+
+Input  0000 0010 0001 1101 | Value: 541 | Big Endian HEX : 21d
+Outpu  0001 1101 0000 0010 | Value: 7426 | Little Endian Hex : 1d02
+
+Input  0011 0000 0001 0111 | Value: 12311 | Big Endian HEX : 3017
+Outpu  0001 0111 0011 0000 | Value: 5936 | Little Endian Hex : 1730
+
+Input  0001 1001 1001 1001 | Value: 6553 | Big Endian HEX : 1999
+Outpu  1001 1001 0001 1001 | Value: 39193 | Little Endian Hex : 9919
+
+Input  0000 0000 1000 1110 | Value: 142 | Big Endian HEX : 8e
+Outpu  1000 1110 0000 0000 | Value: 36352 | Little Endian Hex : 8e00
+
+Input  0000 0000 0000 1110 | Value: 14 | Big Endian HEX : e
+Outpu  0000 1110 0000 0000 | Value: 3584 | Little Endian Hex : e00
+
