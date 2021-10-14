@@ -14,7 +14,7 @@
 
 
    <ul>
-
+<ol>
 ​    <ul>
 
 ​    <li><a href="#steps">Steps</a></li>
@@ -22,8 +22,9 @@
 ​    <li><a href="#files">Files</a></li>
 
 ​	<li><a href="#acknowledgements">Acknowledgements</a></li>
-
+</ol>
    </ul>
+</details>
 
 **About The Project**
 
