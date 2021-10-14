@@ -3,28 +3,15 @@
 
 
   <p align="center">
-
-  
-
   <br />
-
   <br />
-
  </p>
-
-
-
-
 
 <details open="open">
 
- <summary><h2 style="display: inline-block">Build with C++</h2></summary>
+ <summary><h2 style="display: inline-block">About the project</h2></summary>
 
- <ol>
 
-  <li>
-
-      <a href="#about-the-project">About The Project</a>
 
    <ul>
 
@@ -38,23 +25,13 @@
 
    </ul>
 
-   </li>
-
- </ol>
-
-
-
-
-
-
-
-**## About The Project**
+**About The Project**
 
 
 
 Program reads in a sample .dat file with some hardcoded numbers between 0 and 65535. First it represents the values as 16 bit binary,  Big Endian HEX's and it's decimal values. Then it converts the values to it's Little Endian representation and corresponding new 16 bit binary and decimal values. In next step the middle 8 bits are extracted from the Little Endian and theirs representation are shown in the console and saved to a file.
 
- **### Steps**
+ **Steps**
 
 1. [bin_str16(unsigned short n)]  - First it converts the unsigned short number to 16-bits representation as a string
 2. [to_hex(unsigned short x)] - that method takes the value and return its HEX Big Endian representation as string
@@ -64,7 +41,7 @@ Program reads in a sample .dat file with some hardcoded numbers between 0 and 65
 
 
 
-**## Files**
+**Files**
 
 * [test.dat](test.dat) - file used as source for the input values
 
@@ -76,7 +53,7 @@ Program reads in a sample .dat file with some hardcoded numbers between 0 and 65
 
 
 
-**## Acknowledgements**
+**Acknowledgements**
 
 
 
